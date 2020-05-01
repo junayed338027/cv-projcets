@@ -1,0 +1,108 @@
+body{
+	background:url(2.jpg);
+ font-family: 'Roboto',sans-serif;
+   background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+h1,h2,h3,h4,h5,h6{
+	color: #11999e
+}
+p{
+	text-align: justify;
+}
+
+.A4{
+
+  
+  max-width: 800px;
+background-color: white;
+margin: 0 auto;
+padding: 40px;
+
+}
+
+hr{
+	border: 3px solid black;
+	border-bottom: none;
+}
+.common_hr{
+	border: 1px solid black;
+	border-bottom: none;
+}
+
+.ime{
+
+height: 100px;
+width: 100px;
+border: 3px solid #E9EBEE;
+border-radius: 50% ;
+float: left;
+padding: 5px;
+}
+
+.hed-bio{
+	float: left;
+  padding: 20px;
+}
+
+
+.hyper {
+	float: right;
+}
+
+.hyper a{
+	text-decoration: none ;
+	font-weight: bold;
+
+}
+
+.hyper a:hover{
+	color: red;
+}
+
+.div_clr{
+	clear: both;
+}
+
+.left_div{
+	width: 30%;
+	float: left;
+}
+
+.right_div{
+	width: 70%;
+	float: right;
+}
+
+.bottom{
+	width: 800px;
+	height: 100px;
+ background-color: black;
+ margin: 0 auto;
+}
+
+.bottom ul {
+  margin: 0 auto;
+}
+.bottom ul li{
+	list-style: none;
+	margin:  20px;
+	float: left ;
+	
+
+}
+.bottom ul li a {
+	text-decoration: none ;
+	font-weight: bold;
+	font-size: 20px;
+	color: white;
+	
+
+}
+.bottom ul li a:hover{
+color: red;
+
+
+}
